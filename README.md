@@ -1,3 +1,7 @@
+## Notice
+
+**I modeled rest of the parts of XChange and made a full assembly STEP model. I hope it'll help you get your machine ready for XChange!**
+
 # XChange
 XChange printable adapters, firmware, knowledge base, accessories
 (This repository will be updated frequently as we further develop adapters, installation and operation support materials, and more. Please contact us directly for general one-on-one help at support@printermods.com)
