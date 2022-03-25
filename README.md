@@ -1,6 +1,8 @@
 ## Notice
 
-**I modeled rest of the parts of XChange and made a full assembly STEP model. I hope it'll help you get your machine ready for XChange!**
+> I modeled rest of the parts of XChange and made a full assembly STEP model. I hope it'll help you get your machine ready for XChange!
+
+Xkonti
 
 # XChange
 XChange printable adapters, firmware, knowledge base, accessories
